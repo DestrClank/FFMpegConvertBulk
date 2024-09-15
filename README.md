@@ -4,6 +4,7 @@ This little and simple tool converts a music folder into an other format by usin
 The tool will list every file in the folder that has the file extension specified on the arguments and uses FFmpeg to convert the files into the file format you want.
 
 **Note** : You need to have FFMpeg into your environement variables into `PATH`.
+**The tool uses .NET 8.0.**
 
 # Usage
 The command looks like this :
