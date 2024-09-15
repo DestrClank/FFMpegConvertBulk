@@ -13,9 +13,9 @@ The tool will save the output files into `input folder\Converted`.
 ## Arguments 
 - `input folder` : The folder containing the files you want to convert.
 - `input file extension` : The input file extension/format that they have to look for.
-- `output file extension` : The output file extension/format that you want the files to ne converted.
+- `output file extension` : The output file extension/format that you want the files to be converted.
 ## Options
-`--overwrite` : If any file already exists to `input folder\Converted`, it will overwrite it without asking.
+- `--overwrite` : If any file already exists to `input folder\Converted`, it will overwrite it without asking.
 ## Example
 `FFMpegConvertBulk "C:\SourceFolder" .at3 .mp3 --overwrite`
 
